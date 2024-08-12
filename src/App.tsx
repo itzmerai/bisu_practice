@@ -6,7 +6,7 @@ function App() {
 
   return (
 <div>
-  <p>gwapo ko ha</p>
+  <p>Ryan Gwapo naunsa nani</p>
 </div>
   )
 }
